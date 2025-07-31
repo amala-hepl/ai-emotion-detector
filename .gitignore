@@ -1,0 +1,9 @@
+.env.example
+.env
+README.md
+app.py
+config.py
+requirements.txt
+sentiment_analysis.ipynb
+static/
+templates/
